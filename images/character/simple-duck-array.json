@@ -1,0 +1,60 @@
+{"frames":
+	[
+		{
+			"filename":"duck_1",
+			"frame":{"x":0,"y":0,"w":151,"h":93},
+			"rotated":false,
+			"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":151,"h":93},
+			"sourceSize":{"w":151,"h":93}
+		},
+		{
+
+			"filename":"duck_2",
+			"frame":{"x":152,"y":65,"w":155,"h":81},
+			"rotated":false,
+			"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":155,"h":81},
+			"sourceSize":{"w":155,"h":81}
+		},
+		{
+
+			"filename":"duck_3",
+			"frame":{"x":152,"y":0,"w":160,"h":64},
+			"rotated":false,"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":160,"h":64},
+			"sourceSize":{"w":160,"h":64}
+		},
+		{
+			"filename":"duck_4",
+			"frame":{"x":152,"y":147,"w":160,"h":53},
+			"rotated":false,
+			"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":160,"h":53},
+			"sourceSize":{"w":160,"h":53}
+		},
+		{
+			"filename":"duck_5",
+			"frame":{"x":0,"y":94,"w":147,"h":74},
+			"rotated":false,
+			"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":147,"h":74},
+			"sourceSize":{"w":147,"h":74}
+		},
+		{
+			"filename":"duck_6",
+			"frame":{"x":0,"y":169,"w":142,"h":86},
+			"rotated":false,
+			"trimmed":false,
+			"spriteSourceSize":{"x":0,"y":0,"w":142,"h":86},
+			"sourceSize":{"w":142,"h":86}
+		}
+	],
+		"meta":
+		{
+			"app":"http://www.leshylabs.com/apps/sstool/",
+			"version":"Leshy SpriteSheet Tool v0.8.1",
+			"size":{"w":312,"h":255},
+			"scale":1
+		}
+}
